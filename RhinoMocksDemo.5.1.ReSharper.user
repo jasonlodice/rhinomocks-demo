@@ -1,0 +1,212 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegister.cs" caret="2322" fromTop="66" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="3910" fromTop="117" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegisterTest.cs" caret="923" fromTop="33" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegister.cs" caret="185" fromTop="9" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegisterTest.cs" caret="257" fromTop="10" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegisterTest.cs" caret="455" fromTop="16" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegisterTest.cs" caret="2501" fromTop="11" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="13" fromTop="0" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="4019" fromTop="36" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="4019" fromTop="30" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="4019" fromTop="23" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="4004" fromTop="17" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="580" fromTop="12" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="211" fromTop="8" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="991" fromTop="27" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="845" fromTop="22" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="1379" fromTop="24" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="1631" fromTop="31" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="2253" fromTop="32" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="1844" fromTop="23" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="2750" fromTop="26" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="2474" fromTop="21" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="2955" fromTop="20" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="3413" fromTop="20" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="3629" fromTop="26" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:AnimalTest.cs" caret="3910" fromTop="36" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegisterTest.cs" caret="780" fromTop="28" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegisterTest.cs" caret="959" fromTop="26" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegisterTest.cs" caret="1244" fromTop="34" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegisterTest.cs" caret="1429" fromTop="26" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegisterTest.cs" caret="1717" fromTop="34" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegisterTest.cs" caret="2056" fromTop="32" />
+      <File id="179E7C84-C2CF-456A-BE57-46E0CBA3F433/f:CashRegisterTest.cs" caret="2473" fromTop="28" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="19" />
+      <Item value="class" priority="3" />
+      <Item value="string" priority="10" />
+      <Item value="void" priority="14" />
+      <Item value="interface" priority="2" />
+      <Item value="double" priority="8" />
+      <Item value="IPrinter`0" priority="4" />
+      <Item value="private" priority="1" />
+      <Item value="prop" priority="1" />
+      <Item value="readonly" priority="0" />
+      <Item value="new" priority="12" />
+      <Item value="List" priority="1" />
+      <Item value="LineItem`0" priority="1" />
+      <Item value="_lineItems" priority="4" />
+      <Item value="LineItem" priority="0" />
+      <Item value="Description" priority="0" />
+      <Item value="description" priority="0" />
+      <Item value="Price" priority="0" />
+      <Item value="price" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="var" priority="21" />
+      <Item value="CalculateTotal`0" priority="0" />
+      <Item value="total" priority="1" />
+      <Item value="payment" priority="2" />
+      <Item value="_printer" priority="8" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="foreach" priority="4" />
+      <Item value="receipt" priority="1" />
+      <Item value="String`0" priority="1" />
+      <Item value="lineItem" priority="3" />
+      <Item value="change" priority="3" />
+      <Item value="Console`0" priority="2" />
+      <Item value="character" priority="2" />
+      <Item value="ThreadStaticAttribute`0" priority="3" />
+      <Item value="CashRegister`0" priority="1" />
+      <Item value="DotMatrixPrinter`0" priority="2" />
+      <Item value="printer" priority="2" />
+      <Item value="cashRegister" priority="3" />
+      <Item value="Assert`0" priority="9" />
+      <Item value="TestMethod" priority="2" />
+      <Item value="Arg" priority="6" />
+      <Item value="Is`0" priority="0" />
+      <Item value="expectedValue" priority="0" />
+      <Item value="List&lt;LineItem&gt;" priority="0" />
+      <Item value="thr" priority="0" />
+      <Item value="NotImplementedException`0" priority="0" />
+      <Item value="CalculateSubTotal`0" priority="0" />
+      <Item value="receiptDocument" priority="0" />
+      <Item value="TestMethodAttribute`0" priority="0" />
+      <Item value="mstm" priority="8" />
+      <Item value="ClassInitialize" priority="0" />
+      <Item value="TestInitialize" priority="0" />
+      <Item value="_cashRegister" priority="4" />
+      <Item value="AddBread`0" priority="0" />
+      <Item value="ThermalTapePrinter`0" priority="1" />
+      <Item value="ThermalTapePrinter" priority="0" />
+      <Item value="expectedReceipt" priority="0" />
+      <Item value="event" priority="0" />
+      <Item value="EventHandler`0" priority="0" />
+      <Item value="IAnimal`0" priority="0" />
+      <Item value="animal" priority="18" />
+      <Item value="ConsoleSpecialKey`0" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="isAnimalReadyToEat" priority="1" />
+      <Item value="true" priority="0" />
+      <Item value="this" priority="1" />
+      <Item value="Empty" priority="0" />
+      <Item value="ExpectedException" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="DivideByZeroException`0" priority="0" />
+      <Item value="response" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Sum`1" priority="1" />
+      <Item value="Sort`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RhinoMocksDemo.CashRegister+LineItem">
+      <Item value="Price" priority="3" />
+      <Item value="Description" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="0" />
+      <Item value="AppendLine`0" priority="1" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RhinoMocksDemo.IPrinter">
+      <Item value="PrintDocument`0" priority="1" />
+      <Item value="AssertWasCalled`1" priority="2" />
+      <Item value="Print`0" priority="2" />
+      <Item value="GetArgumentsForCallsMadeOn`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+      <Item value="Write`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RhinoMocksDemo.CashRegister">
+      <Item value="AddItem`0" priority="3" />
+      <Item value="CompleteSale`0" priority="3" />
+      <Item value="CalculateSubTotal`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`0" priority="6" />
+      <Item value="IsNull`0" priority="0" />
+      <Item value="IsTrue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
+      <Item value="GenerateStub`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.Arg">
+      <Item value="Is`1" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.Arg`1">
+      <Item value="Is" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Constraints.IsArg`1">
+      <Item value="Anything" priority="4" />
+      <Item value="Equal`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Trace">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RhinoMocksDemo.AnimalTest+IAnimal">
+      <Item value="Name" priority="1" />
+      <Item value="Speak`0" priority="10" />
+      <Item value="Stub`2" priority="4" />
+      <Item value="ReadyToEat" priority="1" />
+      <Item value="Raise`1" priority="0" />
+      <Item value="ObeyCommand`0" priority="3" />
+      <Item value="AssertWasCalled`1" priority="1" />
+      <Item value="AssertWasNotCalled`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="Return`0" priority="3" />
+      <Item value="Throw`0" priority="0" />
+      <Item value="Repeat" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IRepeat`1">
+      <Item value="Once`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

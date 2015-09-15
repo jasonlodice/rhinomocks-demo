@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e8bec6e0-033e-4c8e-868d-d42d8babe137" name="19007364@DEVVMJTLSU56 2011-10-04 09:24:37" runUser="CORP\19007364" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="1bf78725-8af6-4bc5-9a87-d74e52507b22">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="19007364_DEVVMJTLSU56 2011-10-04 09_24_37">
+      <DeploymentItem filename="C:\Documents and Settings\19007364\My Documents\Visual Studio 2010\Projects\RhinoMocksDemo\packages\RhinoMocks.3.6\lib\Rhino.Mocks.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-10-04T09:24:37.5840422-04:00" queuing="2011-10-04T09:24:39.6465422-04:00" start="2011-10-04T09:24:40.1934172-04:00" finish="2011-10-04T09:24:41.9590422-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CalculateTotal_OneLineItem_ReturnsPrice" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="fb9245ad-9a5e-e78a-9dbb-a6cf6458db94">
+      <Execution id="0ffb8726-6754-471f-b9c6-65ddcc1e4b37" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.CashRegisterTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateTotal_OneLineItem_ReturnsPrice" />
+    </UnitTest>
+    <UnitTest name="CompleteSale_ManyLineItems_ReturnsCorrectChange" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="604ff890-6f51-920f-d751-e0a89dff5f87">
+      <Execution id="ade8825e-89a0-49cf-a1eb-eab837d738f1" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.CashRegisterTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CompleteSale_ManyLineItems_ReturnsCorrectChange" />
+    </UnitTest>
+    <UnitTest name="CalculateTotal_ManyLineItems_ReturnsPrice" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="eac219da-af12-d60b-26c7-93f887ac57cf">
+      <Execution id="b8556ba5-e0cd-4e61-8b9f-31b248fb8d95" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.CashRegisterTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateTotal_ManyLineItems_ReturnsPrice" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="604ff890-6f51-920f-d751-e0a89dff5f87" executionId="ade8825e-89a0-49cf-a1eb-eab837d738f1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="eac219da-af12-d60b-26c7-93f887ac57cf" executionId="b8556ba5-e0cd-4e61-8b9f-31b248fb8d95" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb9245ad-9a5e-e78a-9dbb-a6cf6458db94" executionId="0ffb8726-6754-471f-b9c6-65ddcc1e4b37" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ade8825e-89a0-49cf-a1eb-eab837d738f1" testId="604ff890-6f51-920f-d751-e0a89dff5f87" testName="CompleteSale_ManyLineItems_ReturnsCorrectChange" computerName="DEVVMJTLSU56" duration="00:00:00.0160920" startTime="2011-10-04T09:24:40.4590422-04:00" endTime="2011-10-04T09:24:41.6152922-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ade8825e-89a0-49cf-a1eb-eab837d738f1">
+    </UnitTestResult>
+    <UnitTestResult executionId="b8556ba5-e0cd-4e61-8b9f-31b248fb8d95" testId="eac219da-af12-d60b-26c7-93f887ac57cf" testName="CalculateTotal_ManyLineItems_ReturnsPrice" computerName="DEVVMJTLSU56" duration="00:00:00.0004707" startTime="2011-10-04T09:24:41.6309172-04:00" endTime="2011-10-04T09:24:41.6621672-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b8556ba5-e0cd-4e61-8b9f-31b248fb8d95">
+    </UnitTestResult>
+    <UnitTestResult executionId="0ffb8726-6754-471f-b9c6-65ddcc1e4b37" testId="fb9245ad-9a5e-e78a-9dbb-a6cf6458db94" testName="CalculateTotal_OneLineItem_ReturnsPrice" computerName="DEVVMJTLSU56" duration="00:00:00.0002798" startTime="2011-10-04T09:24:41.6777922-04:00" endTime="2011-10-04T09:24:41.6934172-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0ffb8726-6754-471f-b9c6-65ddcc1e4b37">
+    </UnitTestResult>
+  </Results>
+</TestRun>

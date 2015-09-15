@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a4078665-0ca0-49f4-a290-5dbd3ecf6ca5" name="19007364@DEVVMJTLSU56 2011-09-30 14:10:35" runUser="CORP\19007364" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="1bf78725-8af6-4bc5-9a87-d74e52507b22">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="19007364_DEVVMJTLSU56 2011-09-30 14_10_35" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-09-30T14:10:35.4149376-04:00" queuing="2011-09-30T14:10:36.0243126-04:00" start="2011-09-30T14:10:37.0711876-04:00" finish="2011-09-30T14:10:38.2743126-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Print_OneLineItem_DotMatrix" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="184850f3-8819-3ab7-36fb-c3403a99baa3">
+      <Execution timeOut="1800000" id="6cabadd4-ce3e-4208-9463-a65d162ec2f5" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.CashRegisterTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Print_OneLineItem_DotMatrix" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="184850f3-8819-3ab7-36fb-c3403a99baa3" executionId="6cabadd4-ce3e-4208-9463-a65d162ec2f5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6cabadd4-ce3e-4208-9463-a65d162ec2f5" testId="184850f3-8819-3ab7-36fb-c3403a99baa3" testName="Print_OneLineItem_DotMatrix" computerName="DEVVMJTLSU56" duration="00:00:00.4124970" startTime="2011-09-30T14:10:37.5555626-04:00" endTime="2011-09-30T14:10:38.0399376-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6cabadd4-ce3e-4208-9463-a65d162ec2f5">
+      <Output>
+        <StdOut>B
+r
+e
+a
+d
+:
+ 
+$
+2
+.
+0
+0</StdOut>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;3&gt;. Actual:&lt;-3&gt;. </Message>
+          <StackTrace>   at RhinoMocksDemo.CashRegisterTest.Print_OneLineItem_DotMatrix() in C:\Documents and Settings\19007364\My Documents\Visual Studio 2010\Projects\RhinoMocksDemo\RhinoMocksDemo\CashRegisterTest.cs:line 21
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

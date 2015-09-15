@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4212703d-b766-45c0-a151-c901088999f2" name="19007364@DEVVMJTLSU56 2011-10-04 10:03:11" runUser="CORP\19007364" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="1bf78725-8af6-4bc5-9a87-d74e52507b22">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="19007364_DEVVMJTLSU56 2011-10-04 10_03_11">
+      <DeploymentItem filename="C:\Documents and Settings\19007364\My Documents\Visual Studio 2010\Projects\RhinoMocksDemo\packages\RhinoMocks.3.6\lib\Rhino.Mocks.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-10-04T10:03:11.5736312-04:00" queuing="2011-10-04T10:03:14.8548812-04:00" start="2011-10-04T10:03:15.6830062-04:00" finish="2011-10-04T10:03:18.7767562-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="7" executed="7" passed="7" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Functions_Can_Be_Setup_To_Match_Different_Arguments" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="71a549f4-fdf9-73a7-3f2f-911973b9753f">
+      <Execution id="7ea55f07-30d3-4703-9fb8-744e94e2d5b9" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Functions_Can_Be_Setup_To_Match_Different_Arguments" />
+    </UnitTest>
+    <UnitTest name="Stubs_Can_Raise_Events" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="61f2e416-7aee-bc47-daa3-ff14dee74675">
+      <Execution id="39d5052a-94e8-4069-8675-2c12477e3292" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Stubs_Can_Raise_Events" />
+    </UnitTest>
+    <UnitTest name="Function_Return_Value_Can_Be_Setup" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="375d3726-7861-9916-b419-fadc1c8d0510">
+      <Execution id="9c58192f-6760-4184-8816-a1dcf63371a7" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Function_Return_Value_Can_Be_Setup" />
+    </UnitTest>
+    <UnitTest name="Functions_Can_Be_Setup_To_Throw_Exception" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="5affb05b-142a-81b8-ad25-a690868ae30c">
+      <Execution id="582519b4-6239-4dab-b4f2-969443456317" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Functions_Can_Be_Setup_To_Throw_Exception" />
+    </UnitTest>
+    <UnitTest name="Functions_Will_Return_Null_By_Default" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="d0919358-4858-df0b-bc86-22b432ea24ef">
+      <Execution id="8be322b0-3f3e-485d-9604-6b49e66406b7" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Functions_Will_Return_Null_By_Default" />
+    </UnitTest>
+    <UnitTest name="Properties_Are_Automatically_Implemented" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="a6c3f45c-1f11-4b18-62b2-1b38d0224c91">
+      <Execution id="a61025ee-46d5-4794-91ff-61b03fd74a1d" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Properties_Are_Automatically_Implemented" />
+    </UnitTest>
+    <UnitTest name="Rhino_Keeps_Track_Of_What_Was_Called_On_The_Stub" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="a6502153-101f-78d6-4bfa-26a718b1d228">
+      <Execution id="5a4fe7ea-2977-41be-8e73-9f87bcbb9a9a" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rhino_Keeps_Track_Of_What_Was_Called_On_The_Stub" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="375d3726-7861-9916-b419-fadc1c8d0510" executionId="9c58192f-6760-4184-8816-a1dcf63371a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5affb05b-142a-81b8-ad25-a690868ae30c" executionId="582519b4-6239-4dab-b4f2-969443456317" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="61f2e416-7aee-bc47-daa3-ff14dee74675" executionId="39d5052a-94e8-4069-8675-2c12477e3292" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="71a549f4-fdf9-73a7-3f2f-911973b9753f" executionId="7ea55f07-30d3-4703-9fb8-744e94e2d5b9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a6502153-101f-78d6-4bfa-26a718b1d228" executionId="5a4fe7ea-2977-41be-8e73-9f87bcbb9a9a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a6c3f45c-1f11-4b18-62b2-1b38d0224c91" executionId="a61025ee-46d5-4794-91ff-61b03fd74a1d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d0919358-4858-df0b-bc86-22b432ea24ef" executionId="8be322b0-3f3e-485d-9604-6b49e66406b7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9c58192f-6760-4184-8816-a1dcf63371a7" testId="375d3726-7861-9916-b419-fadc1c8d0510" testName="Function_Return_Value_Can_Be_Setup" computerName="DEVVMJTLSU56" duration="00:00:00.5322525" startTime="2011-10-04T10:03:16.0736312-04:00" endTime="2011-10-04T10:03:17.6205062-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9c58192f-6760-4184-8816-a1dcf63371a7">
+    </UnitTestResult>
+    <UnitTestResult executionId="582519b4-6239-4dab-b4f2-969443456317" testId="5affb05b-142a-81b8-ad25-a690868ae30c" testName="Functions_Can_Be_Setup_To_Throw_Exception" computerName="DEVVMJTLSU56" duration="00:00:00.0760582" startTime="2011-10-04T10:03:17.6361312-04:00" endTime="2011-10-04T10:03:17.7298812-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="582519b4-6239-4dab-b4f2-969443456317">
+    </UnitTestResult>
+    <UnitTestResult executionId="39d5052a-94e8-4069-8675-2c12477e3292" testId="61f2e416-7aee-bc47-daa3-ff14dee74675" testName="Stubs_Can_Raise_Events" computerName="DEVVMJTLSU56" duration="00:00:00.3430686" startTime="2011-10-04T10:03:17.7455062-04:00" endTime="2011-10-04T10:03:18.1048812-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="39d5052a-94e8-4069-8675-2c12477e3292">
+    </UnitTestResult>
+    <UnitTestResult executionId="7ea55f07-30d3-4703-9fb8-744e94e2d5b9" testId="71a549f4-fdf9-73a7-3f2f-911973b9753f" testName="Functions_Can_Be_Setup_To_Match_Different_Arguments" computerName="DEVVMJTLSU56" duration="00:00:00.0823514" startTime="2011-10-04T10:03:18.1517562-04:00" endTime="2011-10-04T10:03:18.2767562-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7ea55f07-30d3-4703-9fb8-744e94e2d5b9">
+    </UnitTestResult>
+    <UnitTestResult executionId="5a4fe7ea-2977-41be-8e73-9f87bcbb9a9a" testId="a6502153-101f-78d6-4bfa-26a718b1d228" testName="Rhino_Keeps_Track_Of_What_Was_Called_On_The_Stub" computerName="DEVVMJTLSU56" duration="00:00:00.0685763" startTime="2011-10-04T10:03:18.2923812-04:00" endTime="2011-10-04T10:03:18.3705062-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5a4fe7ea-2977-41be-8e73-9f87bcbb9a9a">
+    </UnitTestResult>
+    <UnitTestResult executionId="a61025ee-46d5-4794-91ff-61b03fd74a1d" testId="a6c3f45c-1f11-4b18-62b2-1b38d0224c91" testName="Properties_Are_Automatically_Implemented" computerName="DEVVMJTLSU56" duration="00:00:00.0023991" startTime="2011-10-04T10:03:18.4173812-04:00" endTime="2011-10-04T10:03:18.4330062-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a61025ee-46d5-4794-91ff-61b03fd74a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="8be322b0-3f3e-485d-9604-6b49e66406b7" testId="d0919358-4858-df0b-bc86-22b432ea24ef" testName="Functions_Will_Return_Null_By_Default" computerName="DEVVMJTLSU56" duration="00:00:00.0007222" startTime="2011-10-04T10:03:18.4486312-04:00" endTime="2011-10-04T10:03:18.4798812-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8be322b0-3f3e-485d-9604-6b49e66406b7">
+    </UnitTestResult>
+  </Results>
+</TestRun>

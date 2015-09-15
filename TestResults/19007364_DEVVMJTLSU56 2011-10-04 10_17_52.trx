@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d4272611-d607-4ebc-834e-6e193e9e2cd1" name="19007364@DEVVMJTLSU56 2011-10-04 10:17:52" runUser="CORP\19007364" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="1bf78725-8af6-4bc5-9a87-d74e52507b22">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="19007364_DEVVMJTLSU56 2011-10-04 10_17_52">
+      <DeploymentItem filename="C:\Documents and Settings\19007364\My Documents\Visual Studio 2010\Projects\RhinoMocksDemo\packages\RhinoMocks.3.6\lib\Rhino.Mocks.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-10-04T10:17:52.3566192-04:00" queuing="2011-10-04T10:17:54.3566192-04:00" start="2011-10-04T10:17:54.7941192-04:00" finish="2011-10-04T10:17:59.3097442-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="16" executed="16" passed="16" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="EnableGridIndexing_GridedViewKeyopTrueGridInstalled_GridIndexingEnabled" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="de9bad4b-abba-f70c-0569-549572bc514c">
+      <Execution id="35bcf758-7421-48cc-8123-4689de0db2fb" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AgentDeviceTest.GridIndexTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EnableGridIndexing_GridedViewKeyopTrueGridInstalled_GridIndexingEnabled" />
+    </UnitTest>
+    <UnitTest name="CalculateTotal_ManyLineItems_ReturnsPrice" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="eac219da-af12-d60b-26c7-93f887ac57cf">
+      <Execution id="de77627b-aed0-4d9c-9d78-34b752499e1a" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.CashRegisterTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateTotal_ManyLineItems_ReturnsPrice" />
+    </UnitTest>
+    <UnitTest name="Stubs_Can_Raise_Events" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="61f2e416-7aee-bc47-daa3-ff14dee74675">
+      <Execution id="7c69a241-928b-4be2-9959-851771b92023" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Stubs_Can_Raise_Events" />
+    </UnitTest>
+    <UnitTest name="Function_Return_Value_Can_Be_Setup" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="375d3726-7861-9916-b419-fadc1c8d0510">
+      <Execution id="697e4abe-2489-4bec-b915-61298cd50826" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Function_Return_Value_Can_Be_Setup" />
+    </UnitTest>
+    <UnitTest name="Functions_Can_Be_Setup_To_Throw_Exception" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="5affb05b-142a-81b8-ad25-a690868ae30c">
+      <Execution id="399e0556-4f07-4d28-986c-68387951d92e" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Functions_Can_Be_Setup_To_Throw_Exception" />
+    </UnitTest>
+    <UnitTest name="Properties_Are_Automatically_Implemented" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="a6c3f45c-1f11-4b18-62b2-1b38d0224c91">
+      <Execution id="ce2df84b-6f19-45ae-af82-1aba90071b74" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Properties_Are_Automatically_Implemented" />
+    </UnitTest>
+    <UnitTest name="CalculateTotal_OneLineItem_ReturnsPrice" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="fb9245ad-9a5e-e78a-9dbb-a6cf6458db94">
+      <Execution id="3402e342-9b2c-4397-9376-6e541f200b10" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.CashRegisterTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateTotal_OneLineItem_ReturnsPrice" />
+    </UnitTest>
+    <UnitTest name="Functions_Will_Return_Null_By_Default" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="d0919358-4858-df0b-bc86-22b432ea24ef">
+      <Execution id="35c6e80f-3c1d-4a34-96ea-9fca3db89a41" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Functions_Will_Return_Null_By_Default" />
+    </UnitTest>
+    <UnitTest name="StatusChanged_GridEnabledChanged_GridIndexingDisabled" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="9d35edbd-8d7f-ab55-ee7a-3ae648af1059">
+      <Execution id="6c4bfab8-3f9b-4d3e-8c50-8c5a88693f02" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AgentDeviceTest.GridIndexTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StatusChanged_GridEnabledChanged_GridIndexingDisabled" />
+    </UnitTest>
+    <UnitTest name="Functions_Can_Be_Setup_To_Match_Different_Arguments" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="71a549f4-fdf9-73a7-3f2f-911973b9753f">
+      <Execution id="1cf8cf38-7e37-4d6f-916f-ea1f89cfca98" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Functions_Can_Be_Setup_To_Match_Different_Arguments" />
+    </UnitTest>
+    <UnitTest name="StatusChanged_GridEnabledChanged_RefreshEventCalled" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="9c912617-3925-a127-86bf-0a349266ccce">
+      <Execution id="4ef01cf8-0bcb-49ae-bbc7-bd84fac2c885" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AgentDeviceTest.GridIndexTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StatusChanged_GridEnabledChanged_RefreshEventCalled" />
+    </UnitTest>
+    <UnitTest name="CompleteSale_ManyLineItems_ReturnsCorrectChange" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="604ff890-6f51-920f-d751-e0a89dff5f87">
+      <Execution id="91b21294-2261-43aa-92e9-3fac67671d84" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.CashRegisterTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CompleteSale_ManyLineItems_ReturnsCorrectChange" />
+    </UnitTest>
+    <UnitTest name="EnableGridIndexing_GridedViewKeyopTrueGridNotInstalled_GridIndexingDisabled" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="88056721-2311-ae0a-5eb0-03bd6dccff6d">
+      <Execution id="28c36bb8-4e81-446d-8fc7-c3a635d1e8d4" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AgentDeviceTest.GridIndexTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EnableGridIndexing_GridedViewKeyopTrueGridNotInstalled_GridIndexingDisabled" />
+    </UnitTest>
+    <UnitTest name="ViewAgentGet_NullViewDS_ExceptionThrown" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="d1162ecb-4f66-c94b-8603-4a3337b546d4">
+      <Execution id="7418c9cf-a3fc-4878-a04b-f362dd20eb22" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AgentDeviceTest.GridIndexTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ViewAgentGet_NullViewDS_ExceptionThrown" />
+    </UnitTest>
+    <UnitTest name="EnableGridIndexing_GridedViewKeyopFalseGridInstalled_GridIndexingEnabled" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="87fe5a99-fa1c-b4e5-64f8-8f7178135947">
+      <Execution id="0b66a10c-d949-455b-9200-02cde535865b" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AgentDeviceTest.GridIndexTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EnableGridIndexing_GridedViewKeyopFalseGridInstalled_GridIndexingEnabled" />
+    </UnitTest>
+    <UnitTest name="Rhino_Keeps_Track_Of_What_Was_Called_On_The_Stub" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="a6502153-101f-78d6-4bfa-26a718b1d228">
+      <Execution id="36f4e593-100e-40ae-9a9b-7f8bfeb39d5b" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rhino_Keeps_Track_Of_What_Was_Called_On_The_Stub" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="375d3726-7861-9916-b419-fadc1c8d0510" executionId="697e4abe-2489-4bec-b915-61298cd50826" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5affb05b-142a-81b8-ad25-a690868ae30c" executionId="399e0556-4f07-4d28-986c-68387951d92e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="604ff890-6f51-920f-d751-e0a89dff5f87" executionId="91b21294-2261-43aa-92e9-3fac67671d84" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="61f2e416-7aee-bc47-daa3-ff14dee74675" executionId="7c69a241-928b-4be2-9959-851771b92023" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="71a549f4-fdf9-73a7-3f2f-911973b9753f" executionId="1cf8cf38-7e37-4d6f-916f-ea1f89cfca98" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="87fe5a99-fa1c-b4e5-64f8-8f7178135947" executionId="0b66a10c-d949-455b-9200-02cde535865b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="88056721-2311-ae0a-5eb0-03bd6dccff6d" executionId="28c36bb8-4e81-446d-8fc7-c3a635d1e8d4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9c912617-3925-a127-86bf-0a349266ccce" executionId="4ef01cf8-0bcb-49ae-bbc7-bd84fac2c885" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9d35edbd-8d7f-ab55-ee7a-3ae648af1059" executionId="6c4bfab8-3f9b-4d3e-8c50-8c5a88693f02" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a6502153-101f-78d6-4bfa-26a718b1d228" executionId="36f4e593-100e-40ae-9a9b-7f8bfeb39d5b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a6c3f45c-1f11-4b18-62b2-1b38d0224c91" executionId="ce2df84b-6f19-45ae-af82-1aba90071b74" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d0919358-4858-df0b-bc86-22b432ea24ef" executionId="35c6e80f-3c1d-4a34-96ea-9fca3db89a41" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d1162ecb-4f66-c94b-8603-4a3337b546d4" executionId="7418c9cf-a3fc-4878-a04b-f362dd20eb22" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="de9bad4b-abba-f70c-0569-549572bc514c" executionId="35bcf758-7421-48cc-8123-4689de0db2fb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="eac219da-af12-d60b-26c7-93f887ac57cf" executionId="de77627b-aed0-4d9c-9d78-34b752499e1a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb9245ad-9a5e-e78a-9dbb-a6cf6458db94" executionId="3402e342-9b2c-4397-9376-6e541f200b10" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="697e4abe-2489-4bec-b915-61298cd50826" testId="375d3726-7861-9916-b419-fadc1c8d0510" testName="Function_Return_Value_Can_Be_Setup" computerName="DEVVMJTLSU56" duration="00:00:00.5951922" startTime="2011-10-04T10:17:55.2941192-04:00" endTime="2011-10-04T10:17:56.8878692-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="697e4abe-2489-4bec-b915-61298cd50826">
+    </UnitTestResult>
+    <UnitTestResult executionId="399e0556-4f07-4d28-986c-68387951d92e" testId="5affb05b-142a-81b8-ad25-a690868ae30c" testName="Functions_Can_Be_Setup_To_Throw_Exception" computerName="DEVVMJTLSU56" duration="00:00:00.1043827" startTime="2011-10-04T10:17:56.9191192-04:00" endTime="2011-10-04T10:17:57.0441192-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="399e0556-4f07-4d28-986c-68387951d92e">
+    </UnitTestResult>
+    <UnitTestResult executionId="91b21294-2261-43aa-92e9-3fac67671d84" testId="604ff890-6f51-920f-d751-e0a89dff5f87" testName="CompleteSale_ManyLineItems_ReturnsCorrectChange" computerName="DEVVMJTLSU56" duration="00:00:00.0037244" startTime="2011-10-04T10:17:57.0597442-04:00" endTime="2011-10-04T10:17:57.0753692-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="91b21294-2261-43aa-92e9-3fac67671d84">
+    </UnitTestResult>
+    <UnitTestResult executionId="7c69a241-928b-4be2-9959-851771b92023" testId="61f2e416-7aee-bc47-daa3-ff14dee74675" testName="Stubs_Can_Raise_Events" computerName="DEVVMJTLSU56" duration="00:00:00.0399758" startTime="2011-10-04T10:17:57.0909942-04:00" endTime="2011-10-04T10:17:57.1534942-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7c69a241-928b-4be2-9959-851771b92023">
+    </UnitTestResult>
+    <UnitTestResult executionId="1cf8cf38-7e37-4d6f-916f-ea1f89cfca98" testId="71a549f4-fdf9-73a7-3f2f-911973b9753f" testName="Functions_Can_Be_Setup_To_Match_Different_Arguments" computerName="DEVVMJTLSU56" duration="00:00:00.0579544" startTime="2011-10-04T10:17:57.1847442-04:00" endTime="2011-10-04T10:17:57.4034942-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1cf8cf38-7e37-4d6f-916f-ea1f89cfca98">
+    </UnitTestResult>
+    <UnitTestResult executionId="0b66a10c-d949-455b-9200-02cde535865b" testId="87fe5a99-fa1c-b4e5-64f8-8f7178135947" testName="EnableGridIndexing_GridedViewKeyopFalseGridInstalled_GridIndexingEnabled" computerName="DEVVMJTLSU56" duration="00:00:00.6809789" startTime="2011-10-04T10:17:57.4191192-04:00" endTime="2011-10-04T10:17:58.1222442-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0b66a10c-d949-455b-9200-02cde535865b">
+    </UnitTestResult>
+    <UnitTestResult executionId="28c36bb8-4e81-446d-8fc7-c3a635d1e8d4" testId="88056721-2311-ae0a-5eb0-03bd6dccff6d" testName="EnableGridIndexing_GridedViewKeyopTrueGridNotInstalled_GridIndexingDisabled" computerName="DEVVMJTLSU56" duration="00:00:00.0306327" startTime="2011-10-04T10:17:58.1378692-04:00" endTime="2011-10-04T10:17:58.1847442-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="28c36bb8-4e81-446d-8fc7-c3a635d1e8d4">
+    </UnitTestResult>
+    <UnitTestResult executionId="4ef01cf8-0bcb-49ae-bbc7-bd84fac2c885" testId="9c912617-3925-a127-86bf-0a349266ccce" testName="StatusChanged_GridEnabledChanged_RefreshEventCalled" computerName="DEVVMJTLSU56" duration="00:00:00.0551970" startTime="2011-10-04T10:17:58.2159942-04:00" endTime="2011-10-04T10:17:58.2941192-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4ef01cf8-0bcb-49ae-bbc7-bd84fac2c885">
+    </UnitTestResult>
+    <UnitTestResult executionId="6c4bfab8-3f9b-4d3e-8c50-8c5a88693f02" testId="9d35edbd-8d7f-ab55-ee7a-3ae648af1059" testName="StatusChanged_GridEnabledChanged_GridIndexingDisabled" computerName="DEVVMJTLSU56" duration="00:00:00.1077010" startTime="2011-10-04T10:17:58.3097442-04:00" endTime="2011-10-04T10:17:58.4659942-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6c4bfab8-3f9b-4d3e-8c50-8c5a88693f02">
+    </UnitTestResult>
+    <UnitTestResult executionId="36f4e593-100e-40ae-9a9b-7f8bfeb39d5b" testId="a6502153-101f-78d6-4bfa-26a718b1d228" testName="Rhino_Keeps_Track_Of_What_Was_Called_On_The_Stub" computerName="DEVVMJTLSU56" duration="00:00:00.0661361" startTime="2011-10-04T10:17:58.4816192-04:00" endTime="2011-10-04T10:17:58.5753692-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="36f4e593-100e-40ae-9a9b-7f8bfeb39d5b">
+    </UnitTestResult>
+    <UnitTestResult executionId="ce2df84b-6f19-45ae-af82-1aba90071b74" testId="a6c3f45c-1f11-4b18-62b2-1b38d0224c91" testName="Properties_Are_Automatically_Implemented" computerName="DEVVMJTLSU56" duration="00:00:00.0017889" startTime="2011-10-04T10:17:58.5753692-04:00" endTime="2011-10-04T10:17:58.6066192-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce2df84b-6f19-45ae-af82-1aba90071b74">
+    </UnitTestResult>
+    <UnitTestResult executionId="35c6e80f-3c1d-4a34-96ea-9fca3db89a41" testId="d0919358-4858-df0b-bc86-22b432ea24ef" testName="Functions_Will_Return_Null_By_Default" computerName="DEVVMJTLSU56" duration="00:00:00.0005544" startTime="2011-10-04T10:17:58.6066192-04:00" endTime="2011-10-04T10:17:58.6378692-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="35c6e80f-3c1d-4a34-96ea-9fca3db89a41">
+    </UnitTestResult>
+    <UnitTestResult executionId="7418c9cf-a3fc-4878-a04b-f362dd20eb22" testId="d1162ecb-4f66-c94b-8603-4a3337b546d4" testName="ViewAgentGet_NullViewDS_ExceptionThrown" computerName="DEVVMJTLSU56" duration="00:00:00.1113253" startTime="2011-10-04T10:17:58.6534942-04:00" endTime="2011-10-04T10:17:58.7784942-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7418c9cf-a3fc-4878-a04b-f362dd20eb22">
+    </UnitTestResult>
+    <UnitTestResult executionId="35bcf758-7421-48cc-8123-4689de0db2fb" testId="de9bad4b-abba-f70c-0569-549572bc514c" testName="EnableGridIndexing_GridedViewKeyopTrueGridInstalled_GridIndexingEnabled" computerName="DEVVMJTLSU56" duration="00:00:00.0247371" startTime="2011-10-04T10:17:58.7784942-04:00" endTime="2011-10-04T10:17:58.8253692-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="35bcf758-7421-48cc-8123-4689de0db2fb">
+    </UnitTestResult>
+    <UnitTestResult executionId="de77627b-aed0-4d9c-9d78-34b752499e1a" testId="eac219da-af12-d60b-26c7-93f887ac57cf" testName="CalculateTotal_ManyLineItems_ReturnsPrice" computerName="DEVVMJTLSU56" duration="00:00:00.0006279" startTime="2011-10-04T10:17:58.8409942-04:00" endTime="2011-10-04T10:17:58.8722442-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de77627b-aed0-4d9c-9d78-34b752499e1a">
+    </UnitTestResult>
+    <UnitTestResult executionId="3402e342-9b2c-4397-9376-6e541f200b10" testId="fb9245ad-9a5e-e78a-9dbb-a6cf6458db94" testName="CalculateTotal_OneLineItem_ReturnsPrice" computerName="DEVVMJTLSU56" duration="00:00:00.0002785" startTime="2011-10-04T10:17:58.8878692-04:00" endTime="2011-10-04T10:17:58.9034942-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3402e342-9b2c-4397-9376-6e541f200b10">
+    </UnitTestResult>
+  </Results>
+</TestRun>

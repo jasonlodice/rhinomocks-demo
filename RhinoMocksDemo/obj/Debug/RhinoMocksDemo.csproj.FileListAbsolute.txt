@@ -1,0 +1,6 @@
+C:\Documents and Settings\19007364\My Documents\Visual Studio 2010\Projects\RhinoMocksDemo\RhinoMocksDemo\bin\Debug\RhinoMocksDemo.dll
+C:\Documents and Settings\19007364\My Documents\Visual Studio 2010\Projects\RhinoMocksDemo\RhinoMocksDemo\bin\Debug\RhinoMocksDemo.pdb
+C:\Documents and Settings\19007364\My Documents\Visual Studio 2010\Projects\RhinoMocksDemo\RhinoMocksDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\19007364\My Documents\Visual Studio 2010\Projects\RhinoMocksDemo\RhinoMocksDemo\obj\Debug\RhinoMocksDemo.dll
+C:\Documents and Settings\19007364\My Documents\Visual Studio 2010\Projects\RhinoMocksDemo\RhinoMocksDemo\obj\Debug\RhinoMocksDemo.pdb
+C:\Documents and Settings\19007364\My Documents\Visual Studio 2010\Projects\RhinoMocksDemo\RhinoMocksDemo\bin\Debug\Rhino.Mocks.dll

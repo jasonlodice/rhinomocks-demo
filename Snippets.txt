@@ -1,0 +1,58 @@
+public class ThermalTapePrinter
+{
+	public void Print(string document)
+	{
+		 //  pretend complicated stuff happens here...
+		foreach (var c in document)
+		{
+			Trace.Write(c);
+			Thread.Sleep(300);
+		}
+	}
+}
+
+----------------------------------------
+
+
+//  build up a formatted receipt
+var receiptDocument = new StringBuilder();
+foreach (var lineItem in _lineItems)
+{
+	//  "Bread: $2.00"
+	receiptDocument.AppendLine(String.Format("{0}: {1:C}", lineItem.Description, lineItem.Price));
+}
+
+//  Send the receipt to the printer
+_printer.Print(receiptDocument.ToString());
+
+
+
+--------------------------
+
+
+[TestMethod]
+public void CompleteSale_OneItem_SendsReceiptToPrinter()
+{
+	//  Arrange
+	_cashRegister.AddItem("Bread", 2.00);
+	
+	//  Act
+	_cashRegister.CompleteSale(2.00);
+
+	//  Assert
+	_printer.AssertWasCalled(x=>x.Print(Arg<string>.Is.Anything));
+}
+
+[TestMethod]
+public void CompleteSale_OneItem_SendsFormattedReceiptToPrinter()
+{
+	//  Arrange
+	_cashRegister.AddItem("Bread", 2.00);
+	
+	//  Act
+	_cashRegister.CompleteSale(2.00);
+
+	//  Assert
+	const string expectedReceipt = "Bread: $2.00\r\n";
+	_printer.AssertWasCalled(x=>x.Print(expectedReceipt));
+        }

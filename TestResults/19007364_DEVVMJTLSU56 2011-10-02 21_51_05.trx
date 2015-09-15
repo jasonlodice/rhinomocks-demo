@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2dd0b0fe-1993-41e2-ad07-61652643d8e9" name="19007364@DEVVMJTLSU56 2011-10-02 21:51:05" runUser="CORP\19007364" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="1bf78725-8af6-4bc5-9a87-d74e52507b22">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="19007364_DEVVMJTLSU56 2011-10-02 21_51_05">
+      <DeploymentItem filename="C:\Documents and Settings\19007364\My Documents\Visual Studio 2010\Projects\RhinoMocksDemo\packages\RhinoMocks.3.6\lib\Rhino.Mocks.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-10-02T21:51:05.8419133-04:00" queuing="2011-10-02T21:51:08.5450383-04:00" start="2011-10-02T21:51:09.2012883-04:00" finish="2011-10-02T21:51:12.8419133-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Rhino_Keeps_Track_Of_What_Was_Called_On_The_Stub" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="a6502153-101f-78d6-4bfa-26a718b1d228">
+      <Execution id="359e624f-43ab-4c1b-b19d-c8d2481b69fe" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Rhino_Keeps_Track_Of_What_Was_Called_On_The_Stub" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a6502153-101f-78d6-4bfa-26a718b1d228" executionId="359e624f-43ab-4c1b-b19d-c8d2481b69fe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="359e624f-43ab-4c1b-b19d-c8d2481b69fe" testId="a6502153-101f-78d6-4bfa-26a718b1d228" testName="Rhino_Keeps_Track_Of_What_Was_Called_On_The_Stub" computerName="DEVVMJTLSU56" duration="00:00:00.5974813" startTime="2011-10-02T21:51:09.4981633-04:00" endTime="2011-10-02T21:51:12.0606633-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="359e624f-43ab-4c1b-b19d-c8d2481b69fe">
+    </UnitTestResult>
+  </Results>
+</TestRun>

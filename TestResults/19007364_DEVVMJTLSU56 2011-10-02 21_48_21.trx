@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="89affa01-b4cd-4f3e-9e28-f2c1197f31fc" name="19007364@DEVVMJTLSU56 2011-10-02 21:48:21" runUser="CORP\19007364" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="1bf78725-8af6-4bc5-9a87-d74e52507b22">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="19007364_DEVVMJTLSU56 2011-10-02 21_48_21">
+      <DeploymentItem filename="C:\Documents and Settings\19007364\My Documents\Visual Studio 2010\Projects\RhinoMocksDemo\packages\RhinoMocks.3.6\lib\Rhino.Mocks.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-10-02T21:48:21.6231633-04:00" queuing="2011-10-02T21:48:24.6231633-04:00" start="2011-10-02T21:48:25.1856633-04:00" finish="2011-10-02T21:48:28.6700383-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Functions_Can_Be_Setup_To_Match_Different_Arguments" storage="c:\documents and settings\19007364\my documents\visual studio 2010\projects\rhinomocksdemo\rhinomocksdemo\bin\debug\rhinomocksdemo.dll" id="71a549f4-fdf9-73a7-3f2f-911973b9753f">
+      <Execution id="215778bf-ba72-4208-819d-b6a4b78bdd80" />
+      <TestMethod codeBase="C:/Documents and Settings/19007364/My Documents/Visual Studio 2010/Projects/RhinoMocksDemo/RhinoMocksDemo/bin/Debug/RhinoMocksDemo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RhinoMocksDemo.AnimalTest, RhinoMocksDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Functions_Can_Be_Setup_To_Match_Different_Arguments" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="71a549f4-fdf9-73a7-3f2f-911973b9753f" executionId="215778bf-ba72-4208-819d-b6a4b78bdd80" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="215778bf-ba72-4208-819d-b6a4b78bdd80" testId="71a549f4-fdf9-73a7-3f2f-911973b9753f" testName="Functions_Can_Be_Setup_To_Match_Different_Arguments" computerName="DEVVMJTLSU56" duration="00:00:00.4982970" startTime="2011-10-02T21:48:25.4356633-04:00" endTime="2011-10-02T21:48:27.9669133-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="215778bf-ba72-4208-819d-b6a4b78bdd80">
+    </UnitTestResult>
+  </Results>
+</TestRun>
